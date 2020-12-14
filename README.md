@@ -1,5 +1,4 @@
 # Hotel-Manager-
-# Hotel-Manager-
 SE04 Day 7
 
 Goals:
