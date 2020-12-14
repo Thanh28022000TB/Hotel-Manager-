@@ -17,5 +17,7 @@ Goals:
 Business objectives:
 
 -Xây dựng và hoàn thành phần mềm quản lý khách sản với các yêu cầu được đặt ra.
+
 -Năng suất và hiệu quả cao
+
 -Dễ dàng quản lý và nâng cấp
